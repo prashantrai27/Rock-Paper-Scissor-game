@@ -57,15 +57,5 @@ while True:
         print("Computer win!!!")
         break
 
-""""def play_rps():
-    frame = simplegui.create_frame("home",300,200)
-    frame.add_button("Rock",Rock)
-    frame.add_button("Paper",Paper)
-    frame.add_button("Scissor",Scissor)
-    frame.set_draw_handler(draw)
-
-    frame.start()
-play_rps()"""
-
 print("Game Over!!!")
 """ Thank You """
